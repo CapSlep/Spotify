@@ -5074,4 +5074,7 @@ video {
 	.header__buttons {
 		display: none;
 	}
+	.header__element {
+		padding: 0 1rem;
+	}
 }
